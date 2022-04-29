@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [danie.kwame.okyere101@gmail.com](mailto:danie.kwame.okyere101@gmail.com)
 * 🚀  I'm currently working on [Kwerty](http://www.kwerty.io)
-* 🧠  I'm learning Java, Angular &
+* 🧠  I'm learning Java, Angular & Salesforce
 
 <a href="https://www.twitter.com/daniel_k_okyere" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/daniel_k_okyere?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
