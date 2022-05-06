@@ -5,7 +5,7 @@ I am a Software Engineer
 -----------------
 
 * 🌍  I'm based in Ghana
-* ✉️  You can contact me at [danie.kwame.okyere101@gmail.com](mailto:daniel.kwame.okyere101@gmail.com)
+* ✉️  You can contact me at [daniel.kwame.okyere101@gmail.com](mailto:daniel.kwame.okyere101@gmail.com)
 * 🚀  I'm currently working on [Kwerty](http://www.kwerty.io)
 * 🧠  I'm learning Java, Angular & Salesforce.
 
