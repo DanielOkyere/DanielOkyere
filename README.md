@@ -8,7 +8,7 @@ I am a  Fullstack Software Engineer
 * ✉️  You can contact me at [daniel.kwame.okyere101@gmail.com](mailto:daniel.kwame.okyere101@gmail.com)
 * 🚀  I'm currently working on [Kwerty](http://www.kwerty.io)
 * 🧠  I'm learning with [Alx](https://www.alx.com/)
-* You can have a look at my profile [here](danielokyere.github.io/my-resume/)
+* You can have a look at my profile [here](https://danielokyere.github.io/my-resume/)
 
 
 # 💻Tech Stack
