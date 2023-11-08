@@ -4,7 +4,6 @@ Hi 👋 My name is Daniel Okyere
 I am a  Fullstack Software Engineer
 -----------------
 
-* 🌍  I'm based in Ghana
 * ✉️  You can contact me at [daniel.kwame.okyere101@gmail.com](mailto:daniel.kwame.okyere101@gmail.com)
 
 
