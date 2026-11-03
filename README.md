@@ -20,6 +20,18 @@
 - 🧱 I care about clean architecture, testability and shipping things that stay maintainable
 - 📫 Reach me at **daniel.kwame.okyere101@gmail.com**
 
+## 🚀 Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [impl-ddd](https://github.com/DanielOkyere/impl-ddd) | Domain-Driven Design implementation in Go | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
+| [Go_Social_Media](https://github.com/DanielOkyere/Go_Social_Media) | Social media backend built in Go | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
+| [GO-RESTAPI](https://github.com/DanielOkyere/GO-RESTAPI) | REST API in Go | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
+| [inventory-manager-nest](https://github.com/DanielOkyere/inventory-manager-nest) | Inventory manager developed with NestJS | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) |
+| [RMI_Project](https://github.com/DanielOkyere/RMI_Project) | Distributed systems project | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [3D-Game-Raytracing](https://github.com/DanielOkyere/3D-Game-Raytracing) | 3D game using raytracing | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
+| [simple_shell](https://github.com/DanielOkyere/simple_shell) | A simple UNIX command interpreter | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
+
 ## 🛠️ Tech stack
 
 **Languages**
